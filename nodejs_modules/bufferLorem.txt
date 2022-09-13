@@ -1,0 +1,227 @@
+The standard Lorem Ipsum passage, used since the 1500s
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
+iusmod tempor incididunt ut labore et d
+olore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam
+co laboris nisi ut al
+iquip ex ea commodo consequat. Duis aute irure dolor in repre
+henderit in voluptate v
+elit esse cillum dolore eu fugiat nulla pariatur. Excep
+teur sint occaecat cupidatat non 
+
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+"Sed ut perspic
+iatis unde omnis iste natus error sit voluptatem accusantium doloremqu
+e laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et
+ quasi architecto beatae vitae dicta sun
+ t explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, se
+ d quia consequuntur magni dolores eos qui ratione volupta
+tem sequi nesciunt. Neque porro qui
+squam est, qui dolorem ipsum quia dolor sit amet, consectetu
+r, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dol
+ore magnam aliquam quaerat voluptatem. Ut enim
+
+ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+ Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla
+  pariatur?"
+
+1914 translation by H. Rackham
+"But I must explain to you how all
+ this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system,
+  and expound the actual te
+  
+  achings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids
+  
+   pleasure itself, because it is pleasure, but because t
+hose
+ who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or des
+ires to obtain 
+pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes la
+borious physical exercise, except 
+to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or 
+
+one who avoids a pain that produces no resultant pleasure?"
+
+Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praes
+entium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occae
+
+cati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id 
+est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedit
+a distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere p
+ossimus, omnis voluptas assumenda est, omnis dolor repellen
+dus. Temp
+oribus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et mol
+estiae non recusandae. Itaque earum rerum h
+ic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+
+The standard Lorem Ipsum passage, used since the 1500s
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut l
+abore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ni
+si ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehe
+nderit in voluptate velit esse cillum dolore eu fugiat null
+a pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+Section 1.10.32 of "de Finib
+us Bonorum et Malorum", written 
+by Cicero in 45 BC
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accus
+antium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto bea
+
+tae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia co
+
+nsequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dol
+orem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam
+ eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minim
+
+a veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, ve
+l illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+
+1914 translation by H. Rackham
+"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a com
+plete account of the sy
+stem, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasur
+e itself
+, because it is pleasure, but because those who do not know how to pursue pleasure rationa
+
+lly encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or d
+esires to obtain pain of itself, because it is pain, but becaus
+e occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, whic
+h of us ever undertakes laborious physical exercise, except to ob
+tain som
+e advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying conseque
+nces, or one who avoids a pain that produces no resultant pleasure?"
+
+
+Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis pra
+esentium voluptatum deleniti atque corrupti quos dolores et quas mo
+lestias excepturi sint occaecati cupiditate non provident, similiqu
+d est laborum et doloru
+m fuga. Et harum quidem rerum facilis est et expedita distinctio. 
+Nam libero tempore, 
+cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime place
+at facere possimus, omnis voluptas assumenda est
+, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis
+ aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic
+  tenetur a sa
+ piente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+
+The standard Lorem Ipsum passage, used since the 1500s
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp
+or incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
+ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim i
+d est laborum."
+
+Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
+ beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi
+ nesciunt. Neque porro quisquam est, qui dolorem ipsum q
+uia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et 
+dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam 
+corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae conseq
+
+uatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+
+1914 translation by H. Rackham
+"But I must explain to you how all this mistaken idea of denouncing pleasure a
+nd praising pain was born and I will give you a complete account 
+of the system, and expound the actual 
+teachings of the great ex
+plorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but becau
+se those who do not know how to pursue pleasure rationally encounte
+r consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occ
+asionally circumstances occur 
+in which toil and pain can procure him some great pleasure. To take a trivial example, which of 
+us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right
+ to find fault with a man who chooses to enjoy a pleasure 
+that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+
+Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolor
+es et quas molestias excepturi sint occaecati cupiditate non provident, si
+milique sunt in culpa qui officia deserunt mollitia animi, id est laborum e
+t dolorum fuga. Et harum quidem rerum facilis est et expedita distinct
+io. Nam libero tempore, cum soluta nobis est eligendi optio c
+umque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum nece
+ssitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+ Itaque earum rerum hic tenetur a sapiente delectus, ut aut reic
+iendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+
+
+The standard Lorem Ipsum passage, used since the 1500s
+"Lorem ipsum dolor sit amet, conse
+ctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolo
+re magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ni
+si ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+ reprehenderit in volupt
+ ate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+  proident, sunt in culpa qui offici
+ a deserunt mollit anim id est laborum."
+
+Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+"Sed ut perspiciatis unde
+ omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
+quae ab illo inventore veritatis et quasi a
+rchitecto beatae vitae d
+icta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
+ magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, conse
+ ctetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut e
+ nim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequa
+tur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit ess
+e quam nihil molestiae consequatur, vel illum qui d
+olorem eum fugiat quo voluptas nulla pariatur?"
+
+1914 translation by H. Rackham
+"But I must explain to
+ you how all this mistaken idea of denouncing pleasure and praisin
+g pain was born and I will give you a complete account of the syste
+m, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids ple
+asure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are
+ extremely painful. Nor again is there anyone who loves or pursues 
+ or desires to obtain pain of itself, because it is pain, but because occasionally circumstances oc
+ cur in which toil and pain can pro
+cure him some great pleasure. To take a trivial example, which of us ever under
+takes laborious physical exercise, except to obtain some advantage from it? But who has any right to find
+ fault with a man who chooses to enjoy a pleasure that has no annoyi
+ ng consequences, or one who avoids a pain that produces no resultant pleasure?"
+
+Section 1.10.33 of "de Fi
+nibus Bonorum et Malorum", written by Cicero in 45 BC
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
+ntium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate
+ non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum
+ quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor rep
+ellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic
+ tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores rep
+ ellat."
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis pra
+esentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et h
+arum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo mi
+nus id quod maxime placeat facere pos
+simus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repud
+iandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et 
+quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum r
+
+erum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt 
+mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+ Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident
+, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, o
+
+mnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic t
+enetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, 
+id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluh
+ta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+
